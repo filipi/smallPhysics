@@ -5,6 +5,7 @@ smallPhysics
 
 Small Physics Engine for simple C++ experiments
 
+Originaly designed for softbody simulations intented to be used as phantoms to Electrical Impedance Tomography
 
 Building example applications
 =============================
