@@ -811,7 +811,7 @@ int main(int argc, char **argv){
     SoftBodySimulation(
 		       10,         // 3 Particles (Masses) on X
 		       10,         // 3 Particles (Masses) on Y
-		       3,          // 2 Particles (Masses) on Z
+		       2,          // 2 Particles (Masses) on Z
 		       0.05f,      // Each Particle Has A Weight Of 50 Grams
 		       40.0f,      // springConstant In The SoftBody
 		       10.0f,       // Normal Length Of Springs In The SoftBody
