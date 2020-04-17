@@ -28,7 +28,7 @@ int lastTime;
 float prox = 1.5;
 float force = 0;
 
-static bool SaturdayNightFever = true;
+static bool SaturdayNightFever = false;
 static bool debug = false;
 
 bool fullScreen = false;
