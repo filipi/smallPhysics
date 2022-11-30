@@ -19,8 +19,22 @@ There are two example applications, eitsim and mantle
 
 Linux
 =====
-make eitsim
-make mantle
+
+# Installing dependecies (glut, lib-jpeg, libglew)
+
+## In Debian derivatives (Ubuntu, etc)
+
+```sudo apt install freeglut3-dev libjpeg-dev libglew-dev```
+
+To compile the examples:
+
+To simulate a matress: 
+
+```make eitsim```
+
+To simulate a sheet of fabric
+
+```make mantle```
 
 Cross compiling windows executable on Linux
 ===========================================
