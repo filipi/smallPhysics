@@ -17,14 +17,18 @@ There are two example applications, eitsim and mantle
 
 * mantle is an example of using 2D physcis for clothing simulation
 
-Linux
-=====
+Linux/MacOS
+===========
 
 # Installing dependecies (glut, lib-jpeg, libglew)
 
 ## In Debian derivatives (Ubuntu, etc)
 
 ```sudo apt install freeglut3-dev libjpeg-dev libglew-dev```
+
+## In MacOS
+
+```brew install glew```
 
 To compile the examples:
 
